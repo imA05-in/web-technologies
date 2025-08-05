@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+b{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+em{font-style: italic; font-size: large;}
